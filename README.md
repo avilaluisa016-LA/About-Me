@@ -1,7 +1,7 @@
 # About-Me
 ## 👋 Hi, I'm Luis
 
-I'm a Mechanical Engineer transitioning into Embedded Systems with a focus on Robotics.
+I'm a Mechanical Engineer interested in Embedded Systems with a focus on Robotics.
 
 🔧 Interests:
 - Embedded C & firmware development
