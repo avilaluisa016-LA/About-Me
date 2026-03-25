@@ -1,22 +1,26 @@
-# About-Me
-## 👋 Hi, I'm Luis
+# Hi, I'm Luis
+I'm a Mechanical Engineering graduate with a strong interest in embedded systems and robotics. My engineering background in dynamics, control systems, and physical system modeling gives me a solid foundation for building intelligent, hardware-driven solutions.
 
-I'm a Mechanical Engineer interested in Embedded Systems with a focus on Robotics.
+I enjoy working at the intersection of mechanical design and electronics — taking a system from concept to something that physically moves and responds to the world around it.
 
-🔧 Interests:
+---
+
+## Interests
 - Embedded C & firmware development
-- Microcontrollers (Arduino / STM32 / ESP32)
-- Motor control & sensors
-- Real-time systems for robotics
+- Microcontrollers (Adafruit Feather, Arduino, STM32, ESP32)
+- Motor control, servo systems & sensors
+- Robotics and real-time control systems
+---
 
-🚀 Current Goal:
-Building hands-on embedded projects to transition into a professional embedded/robotics role.
+## Current Goal
+Building hands-on embedded and robotics projects to grow my skills and transition into a professional role in embedded systems, robotics, or aerospace engineering.
+---
 
-📚 Background:
-Mechanical Engineering with strong foundations in dynamics, control systems, and physical system modeling.
+## Current Projects
+- **3 DOF Robotic Arm** — Expanding on an earlier joystick controlled robotic arm build by implementing advanced motion control for smoother and more precise arm movement.
+- **Autonomous Robot** — In progress
+---
 
-🛠️ Current Projects:
-- Microcontroller GPIO & timers
-- Sensor interfacing (I2C, SPI)
-- Motor control using PWM
-
+Feel free to explore my repositories and follow along as I continue to grow and build.
+[LinkedIn] https://www.linkedin.com/in/luis-a-37a5ab29b/
+[email] avilaluisa016@gmail.com
