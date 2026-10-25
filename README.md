@@ -17,8 +17,8 @@ Building hands-on embedded and robotics projects to grow my skills and transitio
 ---
 
 ## Current Projects
-- **3 DOF Robotic Arm** — Expanding on an earlier joystick controlled robotic arm build by implementing advanced motion control for smoother and more precise arm movement.
-- **Autonomous Robot** — In progress
+- **4 DOF Robotic Arm** — Expanding on an earlier joystick controlled robotic arm build by implementing advanced motion control for smoother and more precise arm movement.
+- **Inverse/Forward Kinematic Library** — In progress
 ---
 
 Feel free to explore my repositories and follow along as I continue to grow and build.
